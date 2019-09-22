@@ -1,10 +1,10 @@
-#Пупкин Василий Васильевич
-##dsgffrg@rt.by **(29) 125-25-25**
-##Skills:
+# Пупкин Василий Васильевич
+## dsgffrg@rt.by **(29) 125-25-25**
+## Skills:
 * HTML5
 * CSS3
 * JQuery
-##My code example:
+## My code example:
 ```
 <?php $_helper = $this->helper('catalog/output'); ?>
 <?php $_product = $this->getProduct(); ?>
@@ -29,7 +29,7 @@
                             <?php echo $this->getChildHtml('product_type_availability'); ?>
                         </div>
 ```
-##English level: *Intermediate *
+## English level: *Intermediate *
 
 
 
