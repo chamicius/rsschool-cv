@@ -29,7 +29,7 @@
                             <?php echo $this->getChildHtml('product_type_availability'); ?>
                         </div>
 ```
-## English level: *Intermediate *
+## English level: * Intermediate *
 
 
 
